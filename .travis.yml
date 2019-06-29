@@ -16,4 +16,8 @@ deploy:
     skip_cleanup: true
     script: chmod +x ./deploy.sh && ./deploy.sh
     on:
+<<<<<<< HEAD
       branch: master
+=======
+      branch: master  
+>>>>>>> master
